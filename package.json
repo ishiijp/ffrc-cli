@@ -1,7 +1,7 @@
 {
   "name": "ffrc-cli",
   "description": "A tiny tool for Firebase Cloud Functions Runtime Config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/ishiijp/ffrc-cli.git",
   "author": "ishiijp",
   "license": "MIT",
