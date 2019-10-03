@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const commands = ['set', 'get', 'unset']
 const argv = require('minimist')(process.argv.slice(2))
 
