@@ -9,7 +9,8 @@
     "ffrc": "./ffrc-cli.js"
   },
   "scripts": {
-    "firebase": "firebase"
+    "firebase": "firebase",
+    "ffrc": "node ./ffrc-cli.js"
   },
   "devDependencies": {
     "firebase-tools": "^7.4.0"
